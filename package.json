@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/graphql": "^0.11.6",
+    "apollo-cache-inmemory": "^1.1.0",
+    "apollo-client": "^2.0.2",
+    "apollo-link-http": "^1.1.0",
+    "graphql": "^0.11.7",
+    "graphql-tag": "^2.5.0",
+    "typescript": "^2.6.1"
+  }
+}
